@@ -6,14 +6,14 @@ https://github.com/joshfraser/PHP-Name-Parser
 
 Split a single string into the following array:
 
-array:7 [▼
-  "salutation" => ""
-  "fname" => ""
-  "initials" => ""
-  "lname" => ""
-  "lname_base" => ""
-  "lname_compound" => ""
-  "suffix" => ""
+array: [
+  salutation,
+  fname,
+  initials,
+  lname,
+  lname base,
+  lname compound,
+  suffix
 ]
 
 
