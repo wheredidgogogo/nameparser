@@ -1,6 +1,7 @@
 {
     "name": "wheredidgogogo/nameparser",
     "description": "Nameparser",
+    "type": "Laravel",
     "license": "MIT",
     "authors": [
         {
