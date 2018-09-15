@@ -16,6 +16,7 @@ array: [
   suffix
 ]
 
+This package allows you to use a single input field for a user or customer name and then split the single string into its individual name components.
 
 ## Installation
 
