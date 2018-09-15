@@ -1,5 +1,17 @@
 {
     "name": "wheredidgogogo/nameparser",
-    "description": "Laravel",
-    "require": {}
+    "description": "Nameparser",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Gherghetta",
+            "email": "anthony@gorilladash.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wheredidgogogo\\Nameparser\\": "src"
+        }
+    }
 }
