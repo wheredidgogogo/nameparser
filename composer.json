@@ -2,7 +2,6 @@
     "name": "wheredidgogogo/nameparser",
     "description": "Nameparser",
     "type": "Laravel",
-    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
@@ -10,6 +9,7 @@
             "email": "anthony@gorilladash.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
