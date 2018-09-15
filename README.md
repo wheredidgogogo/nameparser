@@ -4,6 +4,19 @@ This is a laravel version of PHP Name Parser by Josh Fraser
 
 https://github.com/joshfraser/PHP-Name-Parser
 
+Split a single string into the following array:
+
+array:7 [▼
+  "salutation" => ""
+  "fname" => ""
+  "initials" => ""
+  "lname" => ""
+  "lname_base" => ""
+  "lname_compound" => ""
+  "suffix" => ""
+]
+
+
 ## Installation
 
 ### Composer
