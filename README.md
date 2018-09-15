@@ -11,8 +11,8 @@ array: [
   fname,
   initials,
   lname,
-  lname base,
-  lname compound,
+  lname_base,
+  lname_compound,
   suffix
 ]
 
