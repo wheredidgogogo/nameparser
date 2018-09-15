@@ -51,5 +51,7 @@ In your `config/app.php` add the following:
 
 $results = \Nameparser::parse_name('Anthony Gherghetta')
 
+
+
 ```
 
