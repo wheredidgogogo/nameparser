@@ -15,7 +15,8 @@ composer require wheredidgogogo/nameparser
 ## Laravel
 
 ### Add Provider
-In your `config/app.php` add the following `Wheredidgogogo\Nameparser\NameparserServiceProvider::class,` to the providers array:
+In your `config/app.php` add the following:
+
 ```php
 'providers' => [
     ...
