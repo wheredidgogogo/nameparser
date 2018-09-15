@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Facade;
 
-class NamepaserFacade extends Facade {
+class NameparserFacade extends Facade {
 
     protected static function getFacadeAccessor() {
         return 'wheredidgogogo-nameparser';
