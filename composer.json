@@ -2,6 +2,7 @@
     "name": "wheredidgogogo/nameparser",
     "description": "Nameparser",
     "type": "Laravel",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
